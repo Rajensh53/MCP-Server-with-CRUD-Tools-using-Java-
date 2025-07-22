@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "MCP_crud_tools_Java": {
+      "command": "java",
+      "args": [
+        "-Dspring.ai.mcp.server.transport=STDIO",
+        "-Dlogging.pattern.console=",
+        "-jar",
+        "D:/AI_Projects/MCP_Server_JAVA/mcp_server_java/build/libs/mcp_server_java-0.0.1-SNAPSHOT.jar"
+      ]
+    }
+  }
+} 
